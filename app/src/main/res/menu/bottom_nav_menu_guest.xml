@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/selector_home"
+        android:id="@+id/home"/>
+
+    <item android:title="Nearby"
+        android:icon="@drawable/selector_location"
+        android:id="@+id/location"/>
+
+</menu>
