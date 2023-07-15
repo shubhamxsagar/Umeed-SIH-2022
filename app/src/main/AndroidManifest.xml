@@ -80,7 +80,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCFJ2w6D8r0Lcs8olpaf6L5gKWIoErEC_g" />
+            android:value="XXX-YYY-ZZZZ-XXX-YYY-ZZZ" />
 
         <activity
             android:name=".Activity.LabInfo"
